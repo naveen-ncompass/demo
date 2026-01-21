@@ -1,0 +1,2 @@
+This is the demo file 
+and this sentence was typed before first commit 
